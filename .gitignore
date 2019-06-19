@@ -1,0 +1,14 @@
+.idea
+.idea/**
+.gradle
+.gradle/**
+
+build/
+gradle
+
+target/
+out/
+.git
+
+.project
+.settings
